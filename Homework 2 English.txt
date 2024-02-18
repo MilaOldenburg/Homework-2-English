@@ -1,0 +1,61 @@
+I graduated from TEL-RAN by Starta Institute with a degree in Front-End developer.
+Я закончил TEL-RAN by Starta Institute по специальности Front-End разработчик.
+
+I have a Bachelor’s/Master’s degree in Computer Science/Information Technology.
+У меня есть степень бакалавра/магистра в области компьютерных наук/информационных технологий.
+
+I completed a JavaScript course in 2024 year to enhance my programming skills.
+Я закончил курс JavaScript в 2024 году, чтобы улучшить свои навыки программирования.
+
+I worked as a [position] intern at [company name] from [start date] to [end date] to gain hands-on experience.
+Я работал стажером в [должность] в [название компании] с [дата начала] до [дата окончания], чтобы получить практический опыт.
+
+My experience includes developing web applications, troubleshooting software issues, and collaborating with cross-functional teams.
+Мой опыт включает в себя разработку веб-приложений, устранение неполадок в программном обеспечении и сотрудничество с кросс-функциональными командами.
+
+The project I'm most proud of is building a responsive website from scratch using HTML, CSS, and JavaScript.
+Проект, которым я больше всего горжусь, — это создание адаптивного веб-сайта с нуля с использованием HTML, CSS и JavaScript.
+
+
+
+
+I am looking for a new job because I recently moved to a new city and am looking for opportunities for professional growth in the IT field.
+Я ищу новую работу, потому что недавно переехал в новый город и ищу возможности для профессионального роста в IT-сфере.
+
+Currently, I am working as a junior software developer, gaining practical experience.
+В настоящее время я работаю младшим разработчиком программного обеспечения, набираюсь практического опыта.
+
+I'm studying for industry certifications like CompTIA to expand my IT skills and knowledge.
+Я учусь на отраслевые сертификаты, такие как CompTIA  чтобы расширить свои навыки и знания в области ИТ.
+
+I am responsible for various administrative tasks such as reporting, organizing meetings, and managing schedules.
+Я отвечаю за различные административные задачи, такие как составление отчетов, организация встреч и управление расписаниями.
+
+For example, my recent project was developing a mobile app for a local startup. It was really successful because we received positive feedback from users for its user-friendly interface and functionality.
+Например, моим недавним проектом была разработка мобильного приложения для местного стартапа. Он был действительно успешным, потому что мы получили положительные отзывы от пользователей за удобный интерфейс и функциональность.
+
+I have qualifications such as proficiency in programming languages such as JavaScript and React, and experience with management systems such as Git.
+У меня есть такая квалификация, как владение языками программирования, такими как JavaScript и React, и опыт работы с системами управления как Git.
+
+
+
+I am interested in your position because I would like to start my career as a software developer and contribute to innovative projects in your company.
+
+Мне интересна ваша должность, потому что я хотел бы начать свою карьеру в качестве разработчика программного обеспечения и внести свой вклад в инновационные проекты в вашей компании.
+
+I want to learn more about this field and dive into the latest technologies and trends.
+
+Я хочу узнать больше об этой сфере и погрузиться в новейшие технологии и тенденции.
+
+I want to gain new experience in front-end development and cloud computing to expand my skill set and become a well-rounded IT professional.
+
+Я хочу получить новый опыт в front-end разработке и облачных вычислениях, чтобы расширить свой набор навыков и стать всесторонне развитым ИТ-специалистом.
+
+I think I am great for this position because I have experience in building web applications using HTML, CSS, and JavaScript, as well as collaborating with cross-functional teams to deliver successful projects.
+
+Я думаю, что отлично подхожу на эту должность, потому что у меня есть опыт создания веб-приложений с использованием HTML, CSS и JavaScript, а также сотрудничества с кросс-функциональными командами для реализации успешных проектов.
+
+
+I'll be happy to join your team because of the supportive and dynamic work environment you offer, where I can grow both personally and professionally while making meaningful contributions to the team's success.
+
+Я буду рад присоединиться к вашей команде из-за поддерживающей и динамичной рабочей среды, которую вы предлагаете, где я могу расти как лично, так и профессионально, внося значимый вклад в успех команды.
